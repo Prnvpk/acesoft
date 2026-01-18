@@ -129,7 +129,7 @@ export const Home = () => {
             <p className="text-[14px] text-center md:text-left">
               Create scalable and dynamic mobile applications using React
               Native, enabling shared code across platforms while maintaining a
-              near-native user experience and fast development cycle.
+              near-native user experience and fast development cycle. 
             </p>
           </div>
         </div>
